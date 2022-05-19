@@ -1,4 +1,9 @@
-# Website
+# Web
+
+## Enter folder
+```
+cd web
+```
 
 ## Project setup
 ```
@@ -22,3 +27,15 @@ npm run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+
+# Server
+
+## Enter folder
+```
+cd server
+```
+
+## Start service
+```
+node app
+ ```
